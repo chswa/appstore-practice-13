@@ -1,0 +1,10 @@
+/* Write your CSS here */
+
+.tab-button {
+  border: 0px;
+  background-color: transparent;
+  cursor: pointer;
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #7b8794;
+}
